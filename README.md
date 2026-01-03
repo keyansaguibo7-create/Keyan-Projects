@@ -1,6 +1,6 @@
 Keyan's Projects!
 
-Hello! This is where im documenting what I'm doing to learn a variety of different topics I'm interested in!
+Hello! To start, I'm Keyan, a Physics + Stats/Data Sci double major at UCLA! This is where I document my progress in learning various topics that interest me.
 
 Data Science Projects:
 Soon!
