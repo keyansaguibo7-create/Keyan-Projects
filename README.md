@@ -6,9 +6,8 @@ Data Science Projects:
 [Government Education Spending Analysis](Keyan_Saguibo_Project_2.html)
 
 ML/AI Projects:
-[AI Outfit Recommendation Slides](NSDC S26 Project Slideshow.pptx)
-[AI Outfit Recommendation Model 1](Model_1(1).ipynb)
-[AI Outfit Recommendation Model 2](Model_2_Complete.ibynb)
+[AI Outfit Generator README](Outfit_generarator_readme.md)
+[AI Outfit Generator Model](Outfit_Generator_Clean.ipynb)
 
 
 Quant Projects:
