@@ -4,7 +4,7 @@ Hello! To start, I'm Keyan, a Physics + Stats/Data Sci double major at UCLA! Thi
 
 Data Science Projects:
 
-[Wildfire Occurrence Prediction Model](Wildfire_Occurance_Model_Project.ipynb) | [Full write-up](wildfire_writeup.md) | [Dataset](wildfire_full_dataset (3).csv)
+[Wildfire Occurrence Prediction Model](Wildfire_Occurance_Model_Project.ipynb) | [Full write-up](wildfire_writeup.md) | [Dataset](wildfire_full_dataset.csv)
 
 [Government Education Spending Analysis](Keyan_Saguibo_Project_2.html)
 
