@@ -4,6 +4,8 @@ Hello! To start, I'm Keyan, a Physics + Stats/Data Sci double major at UCLA! Thi
 
 Data Science Projects:
 
+[Battery Degradation & Failure Prediction Model](Battery_Degradation_Model_Project.ipynb) | Write Up Soon
+
 [Wildfire Occurrence Prediction Model](Wildfire_Occurance_Model_Project.ipynb) | [Full write-up](wildfire_writeup.md) | [Dataset](wildfire_full_dataset.csv)
 
 [Spotify EDA](Spotify_EDA_Finished.ipynb)
